@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **WebRtc**
 
-- 👨‍💻 All of my projects are available at [http://javadesmaeili.com/projects/](http://javadesmaeili.com/projects/)
-
 - 💬 Ask me about **React , Nextjs , nodejs**
 
-- 📫 How to reach me **cs.esmaeili@gmail.com**
-
 - 📄 Know about my experiences [http://javadesmaeili.com/](http://javadesmaeili.com/)
+
+- 👨‍💻 All of my projects are available at [http://javadesmaeili.com/projects/](http://javadesmaeili.com/projects/)
+
+- 📫 How to reach me **cs.esmaeili@gmail.com**
 
 - ⚡ Fun fact **I think to much !**
 
