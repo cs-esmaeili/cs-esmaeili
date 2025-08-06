@@ -7,9 +7,7 @@
 
 - 💬 Ask me about **React , Nextjs , nodejs**
 
-- 📄 Know about my experiences [http://javadesmaeili.com/](http://javadesmaeili.com/)
-
-- 👨‍💻 All of my projects are available at [http://javadesmaeili.com/projects/](http://javadesmaeili.com/projects/)
+- 📄 Know about my experiences [https://cs-esmaeili.github.io/cs-esmaeili/JavadEsmaeili.pdf)
 
 - 📫 How to reach me **cs.esmaeili@gmail.com**
 
